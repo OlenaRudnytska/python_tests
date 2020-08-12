@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c32f538d-7458-4488-a08e-7e7bb57a4388" name="Default Changelist" comment="README modified" />
+    <list default="true" id="c32f538d-7458-4488-a08e-7e7bb57a4388" name="Default Changelist" comment="README modified">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +33,7 @@
         <option value="OlenaRudnytska &lt;69174809+olenarudnytska@users.noreply.github.com&gt;" />
       </list>
     </option>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="PUSH_TAGS">
       <GitPushTagMode>
         <option name="argument" value="--follow-tags" />
@@ -39,6 +42,7 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="SET_USER_NAME_GLOBALLY" value="false" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1fdLxg636ko7JMfhR7hVr2S9om0" />
   <component name="ProjectViewState">
@@ -48,9 +52,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test1/geom2d/__pycache__" />
+    <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\Olena Rudnytska\AppData\Roaming\Subversion</configuration>
+    <option name="sshConnectionType" value="PASSWORD" />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -67,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596543755837</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="README modified">
+      <created>1596548471988</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1596548471988</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -80,6 +94,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
@@ -87,13 +102,37 @@
     <option name="LAST_COMMIT_MESSAGE" value="README modified" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="447" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596543539761">
+    <state x="447" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596919257298">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="447" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1596543539761" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1596543788027">
+    <state x="447" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1596919257298" />
+    <state x="826" y="167" key="FileChooserDialogImpl" timestamp="1596919295864">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1596543788027" />
+    <state x="826" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1596919295864" />
+    <state x="147" y="65" key="MergeDialog" timestamp="1596544445544">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="147" y="65" key="MergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1596544445544" />
+    <state x="407" y="174" key="MultipleFileMergeDialog" timestamp="1596544445550">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="407" y="174" key="MultipleFileMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1596544445550" />
+    <state x="555" y="57" key="SettingsEditor" timestamp="1596550061396">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="555" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1596550061396" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1596550081400">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1596550081400" />
+    <state x="927" y="314" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1596549916011">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="927" y="314" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.824@0.0.1536.824" timestamp="1596549916011" />
+    <state x="815" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1596549576802">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="815" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1596549576802" />
   </component>
 </project>
