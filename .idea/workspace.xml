@@ -53,8 +53,29 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test1/geom2d/__pycache__" />
-    <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/env/Scripts/python.exe" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Unittests in test_create_new_group.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="python_tests" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_create_new_group.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests in test_create_new_group.py" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration>C:\Users\Olena Rudnytska\AppData\Roaming\Subversion</configuration>
@@ -89,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597193913279</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="README modified">
+      <created>1597287461579</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1597287461579</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -114,10 +142,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="447" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1597280323197" />
-    <state x="826" y="167" key="FileChooserDialogImpl" timestamp="1596919295864">
+    <state x="826" y="167" key="FileChooserDialogImpl" timestamp="1597289364338">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="826" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1596919295864" />
+    <state x="826" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1597289364338" />
+    <state width="757" height="210" key="GridCell.Tab.0.bottom" timestamp="1597289548216">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="757" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1597289548216" />
+    <state width="757" height="210" key="GridCell.Tab.0.center" timestamp="1597289548215">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="757" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1597289548215" />
+    <state width="757" height="210" key="GridCell.Tab.0.left" timestamp="1597289548214">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="757" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1597289548214" />
+    <state width="757" height="210" key="GridCell.Tab.0.right" timestamp="1597289548215">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="757" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1597289548215" />
     <state x="147" y="65" key="MergeDialog" timestamp="1596544445544">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -126,14 +170,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="407" y="174" key="MultipleFileMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1596544445550" />
-    <state x="555" y="57" key="SettingsEditor" timestamp="1596550061396">
+    <state x="555" y="57" key="SettingsEditor" timestamp="1597289722720">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="555" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1596550061396" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1596550081400">
+    <state x="555" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1597289722720" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1597718201580">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1596550081400" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1597718201580" />
     <state x="927" y="314" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1596549916011">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
