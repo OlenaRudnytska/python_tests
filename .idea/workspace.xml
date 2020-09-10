@@ -20,13 +20,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c32f538d-7458-4488-a08e-7e7bb57a4388" name="Default Changelist" comment="README modified">
-      <change beforePath="$PROJECT_DIR$/.idea/python_tests.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_tests.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_create_new_group.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_create_new_group.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -46,6 +53,9 @@
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1fdLxg636ko7JMfhR7hVr2S9om0" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -117,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597287461579</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="README modified">
+      <created>1597852077238</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1597852077239</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -146,22 +163,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="826" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1597289364338" />
-    <state width="757" height="210" key="GridCell.Tab.0.bottom" timestamp="1597289548216">
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1599709659948">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="757" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1597289548216" />
-    <state width="757" height="210" key="GridCell.Tab.0.center" timestamp="1597289548215">
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599709659948" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1599709659948">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="757" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1597289548215" />
-    <state width="757" height="210" key="GridCell.Tab.0.left" timestamp="1597289548214">
+    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1599709659948" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1599709659948">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="757" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1597289548214" />
-    <state width="757" height="210" key="GridCell.Tab.0.right" timestamp="1597289548215">
+    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1599709659948" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1599709659948">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="757" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1597289548215" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1599709659948" />
     <state x="147" y="65" key="MergeDialog" timestamp="1596544445544">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -174,14 +191,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="555" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1597289722720" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1597718201580">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1599710020022">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1597718201580" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1599710020022" />
     <state x="927" y="314" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1596549916011">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="927" y="314" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.824@0.0.1536.824" timestamp="1596549916011" />
+    <state x="611" y="185" key="refactoring.ChangeSignatureDialog" timestamp="1599686064556">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="611" y="185" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1599686064556" />
     <state x="815" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1596549576802">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
